@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.launching.macosx.MacOSXType/Java SE 8 [1.8.0_131]">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v9.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="/Users/zhujunkai/Downloads/时序库连接jar/gson-2.8.5.jar"/>
+	<classpathentry kind="lib" path="/Users/zhujunkai/Downloads/时序库连接jar/guava-18.0.jar"/>
+	<classpathentry kind="lib" path="/Users/zhujunkai/Downloads/时序库连接jar/influxdb-java-2.5.jar"/>
+	<classpathentry kind="lib" path="/Users/zhujunkai/Downloads/时序库连接jar/logging-interceptor-3.5.0.jar"/>
+	<classpathentry kind="lib" path="/Users/zhujunkai/Downloads/时序库连接jar/moshi-1.6.0.jar"/>
+	<classpathentry kind="lib" path="/Users/zhujunkai/Downloads/时序库连接jar/okhttp-3.5.0.jar"/>
+	<classpathentry kind="lib" path="/Users/zhujunkai/Downloads/时序库连接jar/okio-1.9.0.jar"/>
+	<classpathentry kind="lib" path="/Users/zhujunkai/Downloads/时序库连接jar/retrofit-2.1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/zhujunkai/Downloads/时序库连接jar/converter-gson-2.3.0.jar"/>
+	<classpathentry kind="lib" path="/Users/zhujunkai/Downloads/时序库连接jar/converter-moshi-2.3.0.jar"/>
+	<classpathentry kind="lib" path="/Users/zhujunkai/Desktop/课程/jar包/jfreechart-1.0.19/lib/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="/Users/zhujunkai/Desktop/课程/jar包/jfreechart-1.0.19/lib/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
+</classpath>
